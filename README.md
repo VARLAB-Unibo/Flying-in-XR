@@ -4,7 +4,7 @@
 [Giuseppe Di Maria](https://www.linkedin.com/in/giuseppe-di-maria-6bb5a4170/?originalSubdomain=it),
 [Gustavo Marfia](https://github.com/qp-qp)<br/>
 
-| [IEEE VR '24 Oral Presentation at OAT Workshop](https://openvrlab.github.io/) | [paper](https://www.researchgate.net/publication/377635198_Flying_in_XR_Bridging_Desktop_Applications_in_eXtended_Reality_through_Deep_Learning) | [project page]() | [video](https://drive.google.com/file/d/1vtoUi0iwBAnRYz_IbpJH_X-MT0ZEcS1Q/view?usp=sharing)
+| [IEEE VR '24 Oral Presentation at OAT Workshop](https://openvrlab.github.io/) | [paper](https://www.researchgate.net/publication/377635198_Flying_in_XR_Bridging_Desktop_Applications_in_eXtended_Reality_through_Deep_Learning) | [project page]() | [video](https://www.youtube.com/watch?v=Dd1Clbz-GU8)
 
 ![framework_di_maria (1)](https://github.com/VARLAB-Unibo/Flying-from-2D-to-3D/assets/142809173/0703913c-44a2-48f2-852f-a96e42281a23)
 
